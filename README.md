@@ -2,7 +2,7 @@
 
 <p id="description">A simple e-Book application that allows admin to upload eBooks &amp; users to login and view eBooks.</p>
 
-<p align="center"><img src="https://img.shields.io/badge/Xampp%20Control%20Panel-3.2.4-orange" alt="shields"><img src="https://img.shields.io/badge/Apache-1.8.2-yellow" alt="shields"><img src="https://img.shields.io/badge/MySQL-5.5-blueviolet" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/badge/Xampp%20Control%20Panel-3.2.4-orange" alt="shields">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Apache-1.8.2-yellow" alt="shields">&nbsp;&nbsp;<img src="https://img.shields.io/badge/MySQL-5.5-blueviolet" alt="shields"></p>
 
 <h2>Project Screenshots:</h2>
 
